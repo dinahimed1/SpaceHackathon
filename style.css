@@ -1,0 +1,193 @@
+body {
+    background-image:url("starry_background.jpg");
+    width: 100vw;
+    height: 100vh;
+    cursor: url(https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/alienblaster.png), auto;
+    font-style: courier;
+}
+
+body #planet1 {
+    background-image:  url("DarkPlanet.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 50vh;
+    right:20vw;
+}
+
+
+body #planet2 {
+    background-image: url("blueplanet.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    right: 50vw;
+    top: 2button {
+    position: absolute;
+    top: 5vh;
+    left: 1vw;
+    height: 5em;
+    width: 7em;
+}
+5vh;
+}
+
+body #planet3 {
+    background-image: url("purpleplanet.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 30vh;
+    right: 25vw;
+}
+
+body #planet4 {
+    background-image: url("yelloworgangeplanet.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 80vh;
+    right: 70vw;
+}
+
+body #planet5 {
+    background-image: url("funny_planet.PNG");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 65vh;
+    right: 45vw;
+}
+
+body #planet6{
+    background-image: url("kitty_planet.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 15vh;
+    right: 5vw;
+}
+body #planet7{
+    background-image: url("green_planet.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 25vh;
+    right: 47vw;
+}
+
+body #planet8{
+    background-image: url("striped_planet.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 95vh;
+    right: 75vw;
+}
+
+body #oil1 {
+    background-image: url("oil2.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 75vh;
+    left: 2vw;
+}
+body #oil2 {
+    background-image: url("oil2.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20vh;
+    left: 40vw;
+}
+body #oil3 {
+    background-image: url("oil2.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50vh;
+    left:65vw;
+}
+body #part1 {
+    background-image: url("flip.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 10vh;
+    left: 76vw;
+}
+body #part2 {
+    background-image: url("flip.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 80vh;
+    left: 65vw;
+}
+body #part3 {
+    background-image: url("flip.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom:30vh;
+    right: 50vw;
+}
+body #earth {
+    background-image: url("earth_icon.png");
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 80vh;
+    right: 10vw;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-size: 100px;
+    
+}
+
+#score {
+    color: white;
+    
+}
+button {
+    position: absolute;
+    top: 5vh;
+    left: 1vw;
+    height: 5em;
+    width: 7em;
+}
+
