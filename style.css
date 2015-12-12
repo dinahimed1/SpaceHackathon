@@ -4,6 +4,7 @@ body {
     height: 100vh;
     cursor: url(https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/alienblaster.png), auto;
     font-style: courier;
+    margin: 0;
 }
 
 body #planet1 {
@@ -13,8 +14,8 @@ body #planet1 {
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 50vh;
-    right:20vw;
+    top: 40vh;
+    right: 60vw;
 }
 
 
@@ -25,15 +26,8 @@ body #planet2 {
     width: 205px;
     height: 205px;
     position: absolute;
-    right: 50vw;
-    top: 2button {
-    position: absolute;
-    top: 5vh;
-    left: 1vw;
-    height: 5em;
-    width: 7em;
-}
-5vh;
+    right: 15vw;
+    bottom: 5vh;
 }
 
 body #planet3 {
@@ -43,19 +37,19 @@ body #planet3 {
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 30vh;
-    right: 25vw;
+    bottom: 5vh;
+    left: 30vw;
 }
 
 body #planet4 {
     background-image: url("yelloworgangeplanet.png");
     background-size: contain; 
     background-repeat: no-repeat;
-    width: 205px;
-    height: 205px;
+    width: 185px;
+    height: 185px;
     position: absolute;
-    top: 80vh;
-    right: 70vw;
+   top: 15vh;
+    right: 50vw;
 }
 
 body #planet5 {
@@ -65,8 +59,8 @@ body #planet5 {
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 65vh;
-    right: 45vw;
+    top: 30vh;
+    left: 5vw;
 }
 
 body #planet6{
@@ -76,8 +70,8 @@ body #planet6{
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 15vh;
-    right: 5vw;
+   bottom: 30vh;
+    right: 30vw;
 }
 body #planet7{
     background-image: url("green_planet.png");
@@ -86,8 +80,8 @@ body #planet7{
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 25vh;
-    right: 47vw;
+    bottom: 5vh;
+    left: 5vw;
 }
 
 body #planet8{
@@ -97,8 +91,8 @@ body #planet8{
     width: 205px;
     height: 205px;
     position: absolute;
-    top: 95vh;
-    right: 75vw;
+    top: 20vh;
+    right: 10vw;
 }
 
 body #oil1 {
@@ -108,8 +102,8 @@ body #oil1 {
     width: 100px;
     height: 100px;
     position: absolute;
-    bottom: 75vh;
-    left: 2vw;
+    top: 20vh;
+    right: 30vw;
 }
 body #oil2 {
     background-image: url("oil2.png");
@@ -118,8 +112,8 @@ body #oil2 {
     width: 100px;
     height: 100px;
     position: absolute;
-    top: 20vh;
-    left: 40vw;
+    top: 45vh;
+    right: 20vw;
 }
 body #oil3 {
     background-image: url("oil2.png");
@@ -128,8 +122,8 @@ body #oil3 {
     width: 100px;
     height: 100px;
     position: absolute;
-    top: 50vh;
-    left:65vw;
+    bottom: 5vh;
+    right:35vw;
 }
 body #part1 {
     background-image: url("flip.png");
@@ -138,8 +132,8 @@ body #part1 {
     width: 110px;
     height: 110px;
     position: absolute;
-    top: 10vh;
-    left: 76vw;
+    top: 15vh;
+    left: 20vw;
 }
 body #part2 {
     background-image: url("flip.png");
@@ -148,8 +142,8 @@ body #part2 {
     width: 110px;
     height: 110px;
     position: absolute;
-    top: 80vh;
-    left: 65vw;
+    top: 15vh;
+    left: 20vw;
 }
 body #part3 {
     background-image: url("flip.png");
@@ -158,7 +152,7 @@ body #part3 {
     width: 100px;
     height: 100px;
     position: absolute;
-    bottom:30vh;
+    bottom:50vh;
     right: 50vw;
 }
 body #earth {
@@ -169,25 +163,45 @@ body #earth {
     height: 100px;
     position: absolute;
     top: 80vh;
-    right: 10vw;
+    right: 5vw;
 }
 
 h1{
     color:white;
     text-align: center;
     font-size: 100px;
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    padding-top:30px;
     
 }
 
 #score {
     color: white;
-    
+    position: absolute;
+    top: 5vh;
+    right: 12vw;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
 }
 button {
     position: absolute;
     top: 5vh;
-    left: 1vw;
-    height: 5em;
-    width: 7em;
+    left: 2vw;
+    padding: 10px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
 }
 
+#instructions-box{
+    left: 2vw;
+    font-family: 'Orbitron', sans-serif;
+    position:center;
+
+    
+}
+h2{
+    color: ;
+}
