@@ -198,10 +198,11 @@ button {
 #instructions-box{
     left: 2vw;
     font-family: 'Orbitron', sans-serif;
-    position:center;
+    text-align:center;
 
     
 }
 h2{
-    color: ;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 25px;    
 }
