@@ -187,12 +187,7 @@ h1{
     text-align: center;
 }
 button {
-    position: absolute;
-    top: 5vh;
-    left: 2vw;
-    padding: 10px;
-    font-family: 'Orbitron', sans-serif;
-    font-size: 20px;
+    
 }
 
 #instructions-box{
