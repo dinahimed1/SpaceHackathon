@@ -1,18 +1,22 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+###### Code Nation Hackathon ######
+
+# Planet Escaper
+
+To win this game, you need to collect all the rocket ship pieces while dodging the moving planets
+
+## Features ##
+* Instructions shown when you click on the 'Instructions' link 
+* Users can click on the 'Start' button to begin
+* Users can turn up the volume to listen to the space-themed background music
+* Users can move the rocket with the cursor
+* Score calculates the amount of rocket ship pieces
+* An alert pops up saying you lost , if you hit one of the moving planets
+* An alert pops up saying you win , if you successfully collected all the rocket ship pieces
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+## Built With ##
+* HTML
+* CSS
+* Javascript
+* JQuery
